@@ -7,3 +7,9 @@ title = "拟人化"
 
 [preprocessor.katex]
 after = ["links"]
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+marker = "[TOC]"
+max-level = 4
