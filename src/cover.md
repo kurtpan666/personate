@@ -11,7 +11,7 @@
       Kurt Pan
     </div>
     <div style="font-size: 14px; font-weight: 300; letter-spacing: 2px; opacity: 0.7;">
-      版本 1.0.0 <span style="opacity: 0.5; margin: 0 15px;">|</span> 2025年11月17日
+      版本 1.1.0 <span style="opacity: 0.5; margin: 0 15px;">|</span> 2025年11月17日
     </div>
   </div>
 
