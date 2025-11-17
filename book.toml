@@ -13,3 +13,10 @@ command = "mdbook-toc"
 renderer = ["html"]
 marker = "[TOC]"
 max-level = 4
+
+[output.html]
+[output.html.print]
+enable = true
+
+[output.pdf]
+chrome = "/opt/homebrew/bin/chromium"
